@@ -1,3 +1,2 @@
-2023/02/17-18:26:37.291 2d58 Reusing MANIFEST C:/Users/Micha/Documents/Unreal Projects/YourLastStand/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2023/02/17-18:26:37.292 2d58 Recovering log #3
-2023/02/17-18:26:37.292 2d58 Reusing old log C:/Users/Micha/Documents/Unreal Projects/YourLastStand/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+2023/05/30-22:16:56.275 42a0 Creating DB C:/Users/Micha/Documents/GitHub/YourLastStand/Saved/webcache_4430\Local Storage\leveldb since it was missing.
+2023/05/30-22:16:56.279 42a0 Reusing MANIFEST C:/Users/Micha/Documents/GitHub/YourLastStand/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
